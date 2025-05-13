@@ -35,4 +35,4 @@ Here will insert link: SOON
 
 ---
 
-## This project is not yet finished, and there will be a lot of improvements to be made.
+## This project is not yet finished, and there will be a lot of improvements to be made..
