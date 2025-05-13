@@ -1,24 +1,46 @@
-# clothing-recommendation-app
+# 👚 Clothing Recommendation App
 
-👚 Clothing Recommendation App
-Hello everyone!
-This project is my Capstone work, and the topic I chose is Clothing Recommendation.
+## 📌 Overview
 
-I was inspired to work on this idea because of my mother, who owns a small business called Comfy Pajama Shop. Sometimes, when many customers enter her store at the same time, she becomes overwhelmed and doesn’t have enough time to answer everyone's questions.
+Hello everyone!  
+This is my Capstone project, and the topic I chose is **Clothing Recommendation**.
 
-To help with this issue, I developed a solution using a Streamlit web app. When multiple customers arrive, they can simply scan a QR code with their phones to access the recommendation app. Here's how the app works:
+I was inspired to build this app because of my mother, who owns a small clothing business called **Comfy Pajama Shop**. When too many customers visit her shop at the same time, it becomes difficult for her to assist everyone and answer their questions.
 
-🧵 Tab 1: Product Information
-Customers can upload photos of the clothing item they are interested in, such as sleepwear or other apparel. The app will automatically provide key details about the product, including:
+To help with this challenge, I created a **Streamlit web app** that allows customers to get clothing recommendations and shop information more efficiently by scanning a QR code on their phones.
 
-• Category
-• Size
-• Color
-• Material
-• Price
+---
 
-🛍️ Tab 2: Similar Product Recommendations
-Based on the uploaded image, the app will display three visually and contextually similar products, offering helpful alternatives and suggestions.
+## 🌟 Features
 
-💬 Tab 3: Comfy Pajama Shop's Chatbot
-This tab includes a chatbot that can answer frequently asked questions and provide useful information related to the Comfy Pajama Shop, making it easier for customers to get the assistance they need.
+### 🧵 Tab 1: Product Information
+Customers can upload an image of the clothing item they’re interested in. The app will identify and display:
+- **Category**
+- **Size**
+- **Color**
+- **Material**
+- **Price**
+
+### 🛍️ Tab 2: Similar Product Recommendations
+The app recommends **3 visually and contextually similar products** based on the uploaded image.
+
+### 💬 Tab 3: Comfy Pajama Shop Chatbot
+A simple chatbot is available to answer frequently asked questions and provide store-related information.
+
+---
+
+## 🛠️ Technology Stack
+
+- **Python**
+- **Streamlit**
+- **Pandas, NumPy**
+- **TensorFlow / Keras** (for image classification)
+- **scikit-learn**
+- **Google Drive / Colab** (for development and hosting)
+- **OpenCV & PIL** (for image processing)
+- **Supabase** (optional for backend/storage)
+- **Selenium / Google Cloud Vision** (for chatbot/image integration, if applicable)
+
+---
+
+## 🚀 How to Run the App
