@@ -20,5 +20,5 @@ Customers can upload photos of the clothing item they are interested in, such as
 🛍️ Tab 2: Similar Product Recommendations
 Based on the uploaded image, the app will display three visually and contextually similar products, offering helpful alternatives and suggestions.
 
-💬 Tab 3: Comfy Pajama Shop Chatbot
+💬 Tab 3: Comfy Pajama Shop's Chatbot
 This tab includes a chatbot that can answer frequently asked questions and provide useful information related to the Comfy Pajama Shop, making it easier for customers to get the assistance they need.
