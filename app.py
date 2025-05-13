@@ -7,9 +7,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 from tensorflow.keras.applications.vgg16 import VGG16, preprocess_input
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import Model
-from google import genai
+import google.generativeai as genai
 from google.genai import types
 from brave import Brave
+
 
 # --- Load metadata ---
 metadata = pd.read_csv("clothing_metadata.csv")
