@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from tensorflow.keras.applications.vgg16 import VGG16, preprocess_input
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import Model
-import google.generativeai as genai
+# import google.generativeai as genai
 from google import genai
 from google.genai import types
 from brave import Brave
