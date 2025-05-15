@@ -31,7 +31,9 @@ This tab includes a chatbot that can answer frequently asked questions and provi
 
 ## 🚀 How to Run the App
 
-Here will insert link: SOON
+Link: https://hidyrbnsnefqk3eybhfqtd.streamlit.app/
+
+• I haven't finished training my model yet, so it's not yet possible to directly upload an image from Google or the store, so please download any image from the "data" section and upload it. Thank you.
 
 ---
 
