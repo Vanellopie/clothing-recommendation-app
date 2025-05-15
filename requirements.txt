@@ -1,8 +1,8 @@
 streamlit
-pillow
-tensorflow
-scikit-learn
-matplotlib
 pandas
-google.generativeai
-genai
+numpy
+Pillow
+scikit-learn
+tensorflow
+google-generativeai
+brave-api
