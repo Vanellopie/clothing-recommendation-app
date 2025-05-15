@@ -53,7 +53,7 @@ def extract_features_for_all_images(valid_image_paths):
     return features_array, valid_filenames
 
 # --- Chatbot Configuration ---
-api_key = "AIzaSyCwYARBGwZjOh7Sciu_JmPfv-CUYu_taK0"
+api_key = "AIzaSyAN2WxO3tP59Hwg2UC_rXq_nB9aaxtdneg"
 brave_api_key = "BSAP1ZmJl9wMXKDvGnGM78r9__i_VuG"
 
 SYSTEM_PROMPT = """
