@@ -5,3 +5,4 @@ Pillow
 scikit-learn
 tensorflow
 brave-api
+google-genai
